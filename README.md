@@ -5,13 +5,13 @@ Python implementation of
 
 **Requirements**
 
-*python3.8
+* python3.8
 
-*numpy
+* numpy
 
-*numba
+* numba
 
-*opencv-python
+* opencv-python
 
 **USE**
 ```
